@@ -8,7 +8,7 @@
 
 2. 导入sql文件 `mq_user.sql`
 
-3. 运行 `worker.php` ,订阅频道 `register_users`
+3. 运行 `worker.php` ,订阅频道 `register_success`
 
 ```
 vagrant@homestead:~/code/php-redis-mq$ php work.php
